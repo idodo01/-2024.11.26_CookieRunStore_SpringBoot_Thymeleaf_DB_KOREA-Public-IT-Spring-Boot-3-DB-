@@ -8,3 +8,6 @@ login
 <메인페이지>
 header
 home
+
+0.회원가입, 로그인 join login
+1.메인페이지 (11/25) header home
